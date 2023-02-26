@@ -3,7 +3,7 @@ Repositório base para experimento de TCC II relacionado a TDD.
 
 ## Instruções
 
-O objetivo é desenvolver uma aplicação que consegue calcular o placar de um jogo de boliche completo (de apenas um jogador). Não há uma interface gráfica. Você pode trabalhar apenas com classes/objetos e com testes unitários utilizando o pacote `unittesting` (pacote da biblioteca padrão Python). Você não precisa criar um método `main`.
+O objetivo é desenvolver uma aplicação que consegue calcular o placar de um jogo de boliche completo (de apenas um jogador). Não há uma interface gráfica. Você pode trabalhar apenas com classes/objetos e com testes unitários utilizando o pacote `unittesting` (pacote da biblioteca padrão Python). Você não precisa criar uma função `main`.
 
 Os requisitos da aplicação são divididos em um conjunto de histórias de usuários que irão servir como sua lista de tarefas a serem feitas. Você deve desenvolver uma solução completa de maneira incremental sem uma compreensão inicial completa das regras gerais do jogo. Não leia as tarefas posteriores a que você está fazendo no momento e lide com os requisitos um de cada vez na ordem dada. Resolva o problema começando com a primeira história de usuário. Lembre-se de sempre começar com um caso de teste, seguindo o exemplo apresentado. Apenas quando uma história está completa, você deve passar para a próxima. Uma história está completa quando você está seguro de que seu programa implementa todas as funcionalidades estipuladas pelos requisitos da história de usuário. Isso implica que todos os casos de teste para aquela história e todos os casos de teste para as história anteriores estejam passando. Talvez você precisa alterar sua solução aos poucos conforme você avança para requisitos mais complexos.
 
